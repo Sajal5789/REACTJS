@@ -6,7 +6,7 @@ const Navigation =()=>{
     
    <nav className={`${styles.navigation}   `}>
     <div className="logo">
-<img src="/public/Frame 2 1.png" alt="BRAND-LOGO"></img>
+<img src="/Frame 2 1.png" alt="BRAND-LOGO"></img>
 
       </div>
 
